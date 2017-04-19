@@ -1,0 +1,12 @@
+﻿  Source.cpp
+  Sosemanuk.cpp
+f:\onedrive\programy\projekty\keylogger\keylogger\sosemanuk.cpp(438): warning C4101: 'sign': unreferenced local variable
+  SilentShadow.cpp
+  Keylogger.cpp
+  FTP.cpp
+f:\onedrive\programy\projekty\keylogger\keylogger\ftp.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Blake.cpp
+f:\onedrive\programy\projekty\keylogger\keylogger\blake.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  keylogger.vcxproj -> F:\OneDrive\Programy\Projekty\Keylogger\Debug\keylogger.exe
+  keylogger.vcxproj -> F:\OneDrive\Programy\Projekty\Keylogger\Debug\keylogger.pdb (Partial PDB)
